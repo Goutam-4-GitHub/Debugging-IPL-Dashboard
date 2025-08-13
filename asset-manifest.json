@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Debugging-IPL-Dashboard/static/css/main.47087083.chunk.css",
-    "main.js": "/Debugging-IPL-Dashboard/static/js/main.7a48488d.chunk.js",
-    "main.js.map": "/Debugging-IPL-Dashboard/static/js/main.7a48488d.chunk.js.map",
+    "main.js": "/Debugging-IPL-Dashboard/static/js/main.a66396e0.chunk.js",
+    "main.js.map": "/Debugging-IPL-Dashboard/static/js/main.a66396e0.chunk.js.map",
     "runtime-main.js": "/Debugging-IPL-Dashboard/static/js/runtime-main.15041758.js",
     "runtime-main.js.map": "/Debugging-IPL-Dashboard/static/js/runtime-main.15041758.js.map",
-    "static/js/2.0b537ef4.chunk.js": "/Debugging-IPL-Dashboard/static/js/2.0b537ef4.chunk.js",
-    "static/js/2.0b537ef4.chunk.js.map": "/Debugging-IPL-Dashboard/static/js/2.0b537ef4.chunk.js.map",
+    "static/js/2.c24db46c.chunk.js": "/Debugging-IPL-Dashboard/static/js/2.c24db46c.chunk.js",
+    "static/js/2.c24db46c.chunk.js.map": "/Debugging-IPL-Dashboard/static/js/2.c24db46c.chunk.js.map",
     "index.html": "/Debugging-IPL-Dashboard/index.html",
     "static/css/main.47087083.chunk.css.map": "/Debugging-IPL-Dashboard/static/css/main.47087083.chunk.css.map",
-    "static/js/2.0b537ef4.chunk.js.LICENSE.txt": "/Debugging-IPL-Dashboard/static/js/2.0b537ef4.chunk.js.LICENSE.txt"
+    "static/js/2.c24db46c.chunk.js.LICENSE.txt": "/Debugging-IPL-Dashboard/static/js/2.c24db46c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.15041758.js",
-    "static/js/2.0b537ef4.chunk.js",
+    "static/js/2.c24db46c.chunk.js",
     "static/css/main.47087083.chunk.css",
-    "static/js/main.7a48488d.chunk.js"
+    "static/js/main.a66396e0.chunk.js"
   ]
 }
